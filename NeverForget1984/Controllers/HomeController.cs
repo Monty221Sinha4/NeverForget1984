@@ -21,5 +21,9 @@ namespace NeverForget1984.Controllers
         {
             return View();
         }
+        public ActionResult Matryrs()
+        {
+            return View();
+        }
     }
 }
