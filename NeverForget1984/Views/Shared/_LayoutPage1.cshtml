@@ -25,7 +25,15 @@
             </div>
         </div>
     </div>
-    
+    <div style="background-color:black">
+        <div class="nav-tabs">
+            @Html.ActionLink("Home", "Home", "Home")
+            @Html.ActionLink("Gallery", "Gallery", "Home")
+            @Html.ActionLink("History", "History", "Home")
+            @Html.ActionLink("Martryrs", "Matryrs", "Home")
+        </div>
+    </div>
+  
         <div>
             @RenderBody()
         </div>
