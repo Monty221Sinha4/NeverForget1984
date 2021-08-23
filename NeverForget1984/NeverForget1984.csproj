@@ -136,6 +136,8 @@
     <Content Include="Images\Saint 1.jpg" />
     <Content Include="Images\Saint 2.jpg" />
     <Content Include="Images\Sant 1.jpg" />
+    <Content Include="Images\Shaheed 1.jpg" />
+    <Content Include="Images\Sikh shaheed 1.jpg" />
     <Content Include="Scripts\angular-ui\ui-bootstrap-tpls.js" />
     <Content Include="Scripts\angular-ui\ui-bootstrap-tpls.min.js" />
     <Content Include="Scripts\angular-ui\ui-bootstrap.js" />
